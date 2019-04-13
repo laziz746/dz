@@ -7,6 +7,7 @@ class HW5 {
     float[] arr = new float[SIZE];
 
 
+
     public static void main(String[] args) {
         HW5 hw = new HW5();
         hw.doWithoutThreads();
